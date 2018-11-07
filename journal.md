@@ -3,8 +3,8 @@
 Sterven wegens een git cursus
 
 #Author
-Tine Descamps
-Mijn onzichtbare vriend
+Tine Descamps, University of Manchester
+Mijn onzichtbare vriend, University of Narnia
 
 #Abstract
 Dit wordt als laatste geschreven omwille van de moeilijkheid. De les was echt nuttig, het eerste uur niet, daarna ja.
