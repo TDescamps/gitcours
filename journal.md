@@ -17,3 +17,6 @@ Ik zie toekomst in dit nieuw project, het kan me redden van dit zwart gat waar i
 
 #Methodology
 Vooral veel geklaag in het begin, maar nu toch nuttig. Aanpassen van mening. (Allan et al 1999)
+
+#Conclusions
+Hoewel de start van de cursus niet veelbelovend leek, zijn de resultaten wel nuttig.
