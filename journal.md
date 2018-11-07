@@ -14,3 +14,6 @@ We zien verder in dit rechtstreeks verslag. Gebruik makend van enkele goede comm
 # Simulatie
 Ik zie mijn leven aan mij voorbij flitsen. Momenteel R opgestart en enkele mailtjes met Cong gedeeld.
 Ik zie toekomst in dit nieuw project, het kan me redden van dit zwart gat waar in ik dreig gezogen te worden.
+
+#Methodology
+Vooral veel geklaag in het begin, maar nu toch nuttig. Aanpassen van mening. (Allan et al 1999)
