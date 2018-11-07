@@ -6,6 +6,9 @@ Sterven wegens een git cursus
 Tine Descamps
 Mijn onzichtbare vriend
 
+#Abstract
+Dit wordt als laatste geschreven omwille van de moeilijkheid. De les was echt nuttig, het eerste uur niet, daarna ja.
+
 #Introduction
 Deze cursus werd uitgevoerd aan de U Manchester.Haywood et al (1999)
 Normaal gezien zou dit een aangename training en aanvulling moeten zijn voor de huidige kennis.
