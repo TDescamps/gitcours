@@ -1,8 +1,9 @@
 # Title
-Verslagje van de GIT cursus 
+De help ik ga sterven van verveling cursus
 
 #Author
 Tine Descamps
+Mijn onzichtbare vriend
 
 #Introduction
 Deze cursus werd uitgevoerd aan de U Manchester.Haywood et al (1999)
