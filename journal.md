@@ -23,3 +23,6 @@ Ok, ik moet echt mijn mening bijstellen. Deze cursus is hoewel saai gebracht ech
 
 #Conclusions
 Hoewel de start van de cursus niet veelbelovend leek, zijn de resultaten wel nuttig.
+
+#Figures
+De cursus is vrij tof nu. Connectie gemaakt met github enzo.
