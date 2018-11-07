@@ -26,3 +26,6 @@ Hoewel de start van de cursus niet veelbelovend leek, zijn de resultaten wel nut
 
 #Figures
 De cursus is vrij tof nu. Connectie gemaakt met github enzo.
+
+#Acknowledgments
+Hij maakt zowaar een grapje
