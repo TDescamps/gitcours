@@ -1,5 +1,5 @@
 # Title
-Verslagje van de GIT cursus 
+Verslagje van de GIT cursus. Deel twee 
 
 #Author
 Tine Descamps
